@@ -1,0 +1,4 @@
+https://t.ly/Zjhmk
+
+sudo coreos-installer install /dev/sda \
+    --ignition-url https://t.ly/Zjhmk
