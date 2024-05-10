@@ -1,4 +1,6 @@
-https://t.ly/Zjhmk
+https://t.ly/EKtcn
 
 sudo coreos-installer install /dev/sda \
-    --ignition-url https://t.ly/Zjhmk
+    --ignition-url https://t.ly/EKtcn
+
+
